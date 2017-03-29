@@ -12,6 +12,10 @@ body {
     background-color: {{ site.color.primary-dark }};
 }
 
+input {
+    color: #000;
+}
+
 html {
     width: 100%;
     height: 100%;
